@@ -1,35 +1,32 @@
 # Bem-vindo ao Perfil de Elialber no GitHub!
 
-(https://drive.google.com/file/d/1M9sJ4zNX5MlReLDsKB5LbN-DCyrtL2lg/view?usp=sharing)
+![Elialber Santos](https://drive.google.com/uc?export=view&id=1M9sJ4zNX5MlReLDsKB5LbN-DCyrtL2lg)
 
 ## 👨‍💻 Sobre Mim
-Sou Elialber Lopes, um engenheiro de software apaixonado por desenvolver soluções tecnológicas inovadoras. Com mais de 20 anos de experiência na indústria, especializei-me em [suas áreas de especialização, como backend, frontend, full stack, DevOps, etc.].
-
-🌍 Residente em São Bernardo do Campo, Brasil.
+Olá, sou **Elialber Santos**, um engenheiro de software com mais de duas décadas de experiência, especializado em desenvolvimento de APIs e soluções escaláveis na nuvem. Atualmente resido em São Bernardo do Campo, São Paulo, Brasil.
 
 ### 🛠️ Habilidades
-- **Linguagens de Programação**: Python, JavaScript, C#, etc.
-- **Frameworks e Ferramentas**: React, Docker, Node.js, .NET, etc.
-- **Banco de Dados**: MySQL, MongoDB, etc.
-- **Outras**: CI/CD, Cloud Platforms (AWS/GCP), etc.
+- **Linguagens de Programação**: Go, Python, JavaScript, C#, Typescript.
+- **Frameworks e Ferramentas**: React, Angular, Vue.js, Node.js, .NET, Flutter.
+- **DevOps e Infraestrutura**: Docker, Kubernetes, Terraform, CI/CD.
+- **Bancos de Dados**: SQL Server, Oracle, MongoDB, Redis, MySQL, PostgreSQL, BigQuery.
 
-### 🚀 Projetos
-Descreva alguns projetos de destaque que você trabalhou, com links para repositórios se possível:
-- **[Nome do Projeto 1]**: Descrição curta sobre o que ele faz ou qual problema resolve. [Link para o repositório](#)
-- **[Nome do Projeto 2]**: Descrição curta sobre o projeto. [Link para o repositório](#)
+### 🚀 Projetos e Experiências Profissionais
+- **Isaac**: Como engenheiro de software, liderei a implementação de feature flags e gerenciei a infraestrutura com Terraform, além de otimizar consultas de dados de BigQuery para Redis.
+- **Meep**: Liderança de uma equipe de 30 desenvolvedores, otimizando ciclos de desenvolvimento e implementando práticas de CI/CD.
+- **Netcon Americas**: Desenvolvimento de APIs para telecomunicações com práticas de DDD e microserviços.
+- **Athié Wohnrath**: Desenvolvimento de sistemas B2B utilizando C#, SQL Server, Dapper e Entity Framework.
 
 ### 📈 Estatísticas do GitHub
 ![Elialber's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elialber&show_icons=true&theme=radical)
 
-### 📫 Como me Contatar
-- **Email**: elialberlopes@gmail.com
-- **LinkedIn**: [Seu LinkedIn](www.linkedin.com/in/elialber)
+### 📫 Contato
+- **Email**: [elialberlopes@gmail.com](mailto:elialberlopes@gmail.com)
+- **LinkedIn**: [Visite meu LinkedIn](https://www.linkedin.com/in/elialber-santos-66005013)
 
 ---
 
-## 🌟 O que estou buscando
-Atualmente estou aberto a oportunidades de trabalho onde possa contribuir com minha expertise em desenvolvimento de software, inovação tecnológica e iteli. Se você está buscando alguém que possa agregar valor imediato ao seu time, vamos conversar!
+## 🌟 Em Busca de Novos Desafios
+Estou sempre em busca de oportunidades desafiadoras e inovadoras onde possa aplicar minha experiência para criar soluções impactantes e eficazes. Se você procura um especialista dedicado e com profundo conhecimento técnico, vamos conversar!
 
 ---
-
-![Footer](url_para_uma_imagem_legal_no_rodapé) <!-- Uma imagem de rodapé que seja atraente -->
