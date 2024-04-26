@@ -1,6 +1,6 @@
 # Bem-vindo ao Perfil de Elialber no GitHub!
 
-![Banner](url_para_um_banner_legal) <!-- Troque por uma URL de uma imagem que represente seu trabalho ou sua área -->
+![Banner]([url_para_um_banner_legal](https://drive.google.com/file/d/1M9sJ4zNX5MlReLDsKB5LbN-DCyrtL2lg/view?usp=sharing)) <!-- Troque por uma URL de uma imagem que represente seu trabalho ou sua área -->
 
 ## 👨‍💻 Sobre Mim
 Sou Elialber Lopes, um engenheiro de software apaixonado por desenvolver soluções tecnológicas inovadoras. Com mais de 20 anos de experiência na indústria, especializei-me em [suas áreas de especialização, como backend, frontend, full stack, DevOps, etc.].
@@ -19,11 +19,11 @@ Descreva alguns projetos de destaque que você trabalhou, com links para reposit
 - **[Nome do Projeto 2]**: Descrição curta sobre o projeto. [Link para o repositório](#)
 
 ### 📈 Estatísticas do GitHub
-![Seu Nome's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)
+![Elialber's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elialber&show_icons=true&theme=radical)
 
 ### 📫 Como me Contatar
-- **Email**: seuemail@example.com
-- **LinkedIn**: [Seu LinkedIn](https://linkedin.com/in/seulinkedin)
+- **Email**: elialberlopes@gmail.com
+- **LinkedIn**: [Seu LinkedIn](www.linkedin.com/in/elialber)
 
 ---
 
