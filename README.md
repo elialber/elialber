@@ -17,8 +17,6 @@ Olá, sou **Elialber Santos**, um engenheiro de software com mais de duas décad
 - **Netcon Americas**: Desenvolvimento de APIs para telecomunicações com práticas de DDD e microserviços.
 - **Athié Wohnrath**: Desenvolvimento de sistemas B2B utilizando C#, SQL Server, Dapper e Entity Framework.
 
-### 📈 Estatísticas do GitHub
-![Elialber's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elialber&show_icons=true&theme=radical)
 
 ### 📫 Contato
 - **Email**: [elialberlopes@gmail.com](mailto:elialberlopes@gmail.com)
