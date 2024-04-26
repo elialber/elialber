@@ -1,6 +1,6 @@
 # Bem-vindo ao Perfil de Elialber no GitHub!
 
-![Banner]([url_para_um_banner_legal](https://drive.google.com/file/d/1M9sJ4zNX5MlReLDsKB5LbN-DCyrtL2lg/view?usp=sharing)) <!-- Troque por uma URL de uma imagem que represente seu trabalho ou sua área -->
+![Banner](https://drive.google.com/file/d/1M9sJ4zNX5MlReLDsKB5LbN-DCyrtL2lg/view?usp=sharing)
 
 ## 👨‍💻 Sobre Mim
 Sou Elialber Lopes, um engenheiro de software apaixonado por desenvolver soluções tecnológicas inovadoras. Com mais de 20 anos de experiência na indústria, especializei-me em [suas áreas de especialização, como backend, frontend, full stack, DevOps, etc.].
